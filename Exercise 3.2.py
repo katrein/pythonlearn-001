@@ -1,3 +1,7 @@
+"""
+Add an 'except' in case of error
+"""
+
 try:
 	h = raw_input("Enter Hours:")
 	hrs = float(h)
